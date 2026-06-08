@@ -1,4 +1,3 @@
-Markdown
 # Registration Form - freeCodeCamp Practice
 
 A clean, semantic, and responsive registration form built as part of the freeCodeCamp Responsive Web Design certification. This project focuses on mastering HTML form structures, input validations, and custom CSS styling for user interfaces.
